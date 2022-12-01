@@ -17,24 +17,24 @@ About
 <br>
 
 
-<picture><img align="right" src="https://giphy.com/embed/IwSG1QKOwDjQk" width = 250px></picture>
+<picture><img align="right" src="imgs/mdIcons/fireworks.gif" width = 150px></picture>
 
 <br>
 
 - A passionate Self-taught Front-end developer
-- Playing CTF's at spare time![image](https://user-images.githubusercontent.com/17283862/204964619-c05b8a3a-fb98-4ffa-ab02-5bc5e91f070a.png)
+- Playing CTF's at spare time!
 
-- Currently learning Web Development by Self![image](https://user-images.githubusercontent.com/17283862/204964616-c1627df0-8672-451f-8005-aee213e2265b.png)
+- Currently learning Web Development by Self!
 
 - Personal website
 - I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>![image](https://user-images.githubusercontent.com/17283862/204964581-96cf18da-ba25-49f5-8c27-328a8cf1785d.png)
+<br>
 
 
-## <img src="imgs/mdIcons/fireworks.gif" width ="50"><b> Skills</b>
+## <img src="imgs/mdIcons/skills.gif" width ="50"><b> Skills</b>
 <br>
 
 <p align="center">
@@ -135,7 +135,7 @@ About
 
 
 <div align='center'>
-<picture><img align="center" src="imgs/mdIcons/final_rplace_costa_rica.png" width = 500px></picture>
+<img align="center" src="imgs/mdIcons/final_rplace_costa_rica.png" width = 1000px>
 </div>
 <br>
 <br>
