@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <b>Hi , I'm Josué Chaves </b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="imgs/mdIcons/wave.gif" width="50">
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@ About
 <br>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About me</b>
+## <img src="imgs/mdIcons/hacker.gif" width ="50"><b> About me</b>
 <br>
 
 
@@ -22,16 +22,19 @@ About
 <br>
 
 - A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
+- Playing CTF's at spare time![image](https://user-images.githubusercontent.com/17283862/204964619-c05b8a3a-fb98-4ffa-ab02-5bc5e91f070a.png)
+
+- Currently learning Web Development by Self![image](https://user-images.githubusercontent.com/17283862/204964616-c1627df0-8672-451f-8005-aee213e2265b.png)
+
 - Personal website
 - I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+<br>![image](https://user-images.githubusercontent.com/17283862/204964581-96cf18da-ba25-49f5-8c27-328a8cf1785d.png)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+## <img src="imgs/mdIcons/fireworks.gif" width ="50"><b> Skills</b>
 <br>
 
 <p align="center">
@@ -79,7 +82,7 @@ About
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="imgs/mdIcons/bar-chart.gif" width="50"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -100,7 +103,7 @@ About
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="imgs/mdIcons/love.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -129,10 +132,10 @@ About
 <br>
 <br>
 
+
+
 <div align='center'>
-
-Pura Vida! 
-
+<picture><img align="center" src="imgs/mdIcons/final_rplace_costa_rica.png" width = 500px></picture>
 </div>
 <br>
 <br>
