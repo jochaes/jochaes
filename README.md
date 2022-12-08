@@ -4,9 +4,13 @@
   <img src="imgs/mdIcons/wave.gif" width="50">
 </h1>
 
+<br>
+
 <p align="center">
-About
-  
+I'm a Software Engineer Student :technologist: at Instituto Tecnológico de Costa Rica. 
+<br>
+<br>
+I'm passionate about generating solutions that can innovate and make a good impact on society.
 </p>
 
 
@@ -19,15 +23,15 @@ About
 
 <picture><img align="right" src="imgs/mdIcons/fireworks.gif" width = 150px></picture>
 
-<br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time!
+- :computer: A passionate Web and Desktop developer
+- :leaves: Learning hoy to crochet on my free time
 
-- Currently learning Web Development by Self!
+- :books: Currently learning Web Development (Ionic, React Js, Go, AWS)
 
-- Personal website
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
+- Working on a :stew: [catering service web app for creating events](https://github.com/jochaes/DS-Fase-3) and an :city_sunset: [app for rezising and watermark images using an API, Python and Kivy](https://github.com/jochaes/Picturess)  
+
+- :briefcase: I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/12PYzwHuNdL9Z1K5ye8kSGHZccLrkR8yP/view?usp=sharing)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -43,16 +47,19 @@ About
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)	
+    ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 <br>   
     
-- **Front-End Development**:
+- **Web Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
+   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
     
 <br>
 
@@ -62,15 +69,9 @@ About
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
+    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+    ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+    ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 </p>
 
