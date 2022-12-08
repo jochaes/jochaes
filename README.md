@@ -25,7 +25,7 @@ I'm passionate about generating solutions that can innovate and make a good impa
 
 
 - :computer: A passionate Web and Desktop developer
-- :leaves: Learning hoy to crochet on my free time
+- :leaves: Learning how to crochet on my free time
 
 - :books: Currently learning Web Development (Ionic, React Js, Go, AWS)
 
