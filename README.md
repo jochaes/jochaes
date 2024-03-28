@@ -29,7 +29,7 @@ I'm passionate about generating solutions that can innovate and make a good impa
 
 - :books: Currently learning Web Development (Ionic, React Js, Go, AWS)
 
-- :briefcase: I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/12PYzwHuNdL9Z1K5ye8kSGHZccLrkR8yP/view?usp=sharing)
+- :briefcase: I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1UBDLmVWlkYxt_S8p31gB61Z5yoWqA-fY/view?usp=share_link)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
