@@ -24,10 +24,7 @@ I'm passionate about generating solutions that can innovate and make a good impa
 <picture><img align="right" src="imgs/mdIcons/fireworks.gif" width = 150px></picture>
 
 
-- :computer: A passionate Web and Desktop developer
-- :leaves: Learning how to crochet on my free time
-
-- :books: Currently learning Web Development (Ionic, React Js, Go, AWS)
+- :computer: A passionate Web and XR developer.
 
 - :briefcase: I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1UBDLmVWlkYxt_S8p31gB61Z5yoWqA-fY/view?usp=share_link)
 
